@@ -1,0 +1,163 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Visual_Project
+build_property.RootNamespace = Visual_Project
+build_property.ProjectDir = D:\Mariam Ayman\Hotel-Managment-System (2)\Hotel-Managment-System\Visual Project\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Mariam Ayman\Hotel-Managment-System (2)\Hotel-Managment-System\Visual Project
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Cart/Done.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxEb25lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Cart/ProccedToPay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxQcm9jY2VkVG9QYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Cart/ShowCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxTaG93Q2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Feedback/Feedback.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZGJhY2tcRmVlZGJhY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Feedback/Testimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZGJhY2tcVGVzdGltb25pYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Home/ManageDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYW5hZ2VEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Home/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/ManageAdmins/AddAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlQWRtaW5zXEFkZEFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/ManageAdmins/AdminResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlQWRtaW5zXEFkbWluUmVzdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/ManageAdmins/ManageAdmins.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlQWRtaW5zXE1hbmFnZUFkbWlucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/ManageRoom/AddRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlUm9vbVxBZGRSb29tLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/ManageRoom/EditRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlUm9vbVxFZGl0Um9vbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/ManageRoom/RoomList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlUm9vbVxSb29tTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Profile/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxFZGl0UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Profile/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Reservations/CurrentReservations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXEN1cnJlbnRSZXNlcnZhdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Reservations/PastReservations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXFBhc3RSZXNlcnZhdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Rooms/BookingPeriod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbXNcQm9va2luZ1BlcmlvZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Rooms/Results.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbXNcUmVzdWx0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Rooms/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbXNcU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Signup/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnbnVwXFNpZ251cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Statistics/Date.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljc1xEYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Statistics/DateResults.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljc1xEYXRlUmVzdWx0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Statistics/Guest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljc1xHdWVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Statistics/GuestResults.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljc1xHdWVzdFJlc3VsdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Statistics/RoomResults.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljc1xSb29tUmVzdWx0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Statistics/Rooms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljc1xSb29tcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Statistics/Statistics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljc1xTdGF0aXN0aWNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mariam Ayman/Hotel-Managment-System (2)/Hotel-Managment-System/Visual Project/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-12saasoyar

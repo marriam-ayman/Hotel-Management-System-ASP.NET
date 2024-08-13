@@ -1,0 +1,57 @@
+﻿@model UserLogin
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<head>
+    <title>Login</title>
+</head>
+
+
+        <!-- Booking Start -->
+
+        <div class="container-xxl py-5">
+            <div class="container">
+                <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                    <h6 class="section-title text-center text-primary text-uppercase">Login</h6>
+                    <h1 class="mb-5">Welcome to our <span class="text-primary text-uppercase"> Family</span></h1>
+                </div>
+                <div class="row g-5 mt-5">
+                    <div class="m-auto col-lg-6">
+                        <div class="wow fadeInUp" data-wow-delay="0.2s">
+                            <form method="post" asp-action="Login">
+                                <div class="row g-3">
+                                    <div class="col-md-6">
+                                        <div class="form-floating">
+                                            <input type="text" class="form-control" id="name" placeholder="Your Name" asp-for="@Model.Username" required>
+                                            <label for="name">Username</label>
+                                @*     <span asp-validation-for="Username " class=" test-danger"></span> *@
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-floating">
+                                    <input type="password" class="form-control" id="Password" placeholder="Your Password" asp-for="@Model.Password" required>
+                                            <label for="Password">Password</label>
+                            @*      //   <span asp-validation-for="Password " class=" test-danger"></span> *@
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-floating">
+                                    <a asp-controller="Signup" asp-action="Signup">Create Account</a>
+                                        </div>
+                                    </div>
+                            <input class="btn btn-primary py-3 px-5 mt-2"type="submit" value="Login"/>
+                                </div>
+                        <label>@ViewData["Error"]</label>
+                            </form>
+                        </div>
+                    </div>
+                   
+                    
+                </div>
+            </div>
+        </div>
+        <!-- Booking End -->
+        
+

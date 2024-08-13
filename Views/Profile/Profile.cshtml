@@ -1,0 +1,50 @@
+﻿@model EndUser
+
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h6 class="section-title text-center text-primary text-uppercase">Profile</h6>
+            <h1 class="mb-5">
+                @Model.Username <span class="text-primary text-uppercase">
+                </span>
+            </h1>
+        </div>
+    </div>
+</div>
+<!-- title End -->
+<!-- Main -->
+<div class="main">
+
+    <div class="card">
+        <div class="card-body">
+            <img class="img-fluid flex-shrink-0 rounded" src="~/img/@Model.Image" style="width: 45px; height: 45px;">
+            <table>
+                <tbody>
+                    <tr>
+                        <td>Name</td>
+                        <td>:</td>
+                        <td> @Model.Firstname @Model.Lastname</td>
+                    </tr>
+                    <tr>
+                        <td>Email</td>
+                        <td>:</td>
+                        <td> @Model.Email</td>
+                    </tr>
+
+                    <tr>
+                        <td>National ID</td>
+                        <td>:</td>
+                        <td>@Model.ID</td>
+                    </tr>
+                    <tr>
+                        <td>Phone Number</td>
+                        <td>:</td>
+                        <td> @Model.PhoneNumber</td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <a class="btn btn-primary py-3 px-5 mt-2" asp-controller="Profile" asp-action="EditProfile">Edit Profile</a>
+</div>

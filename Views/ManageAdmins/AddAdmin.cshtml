@@ -1,0 +1,113 @@
+﻿@model Admin
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!-- Page Header Start -->
+<div class="container-fluid page-header mb-5 p-0"
+     style="background-image: url(../img/carousel-1.jpg)">
+    <div class="container-fluid page-header-inner py-5">
+        <div class="container text-center pb-5">
+            <h1 class="display-3 text-white mb-3 animated slideInDown">
+                Add Admin
+            </h1>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb justify-content-center text-uppercase">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item text-white active"
+                        aria-current="page">
+                        Add Admin
+                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+</div>
+<!-- Page Header End -->
+<!-- Booking Start -->
+
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-5 mt-5">
+            <div class="m-auto col-lg-6">
+                <div class="wow fadeInUp" data-wow-delay="0.2s">
+                    <form asp-action="AddAdmin" method="post">
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <div class="form-floating">
+                                    <input type="text" class="form-control" id="first name" placeholder="First Name" asp-for="@Model.Firstname" required />
+                                    @*pattern="[A-Z][a-z]*" title="Please enter the fisrt character capital and the other character small"/>*@
+                                    <label for="first name">First Name</label>
+                                    <span asp-validation-for="Firstname " class=" test-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-floating">
+                                    <input type="text" class="form-control" id="last name" placeholder="Last Name" asp-for="@Model.Lastname" required /> @*pattern="[A-Z][a-z]*" title="Please enter the fisrt character capital and the other character small"/>*@
+                                    <label for="last name">Last Name</label>
+                                    <span asp-validation-for="Lastname " class=" test-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-floating" id="email" data-target-input="nearest">
+                                    <input type="email" class="form-control datetimepicker-input" id="Email" placeholder="email" asp-for="@Model.Email" data-target="#date3" data-toggle="datetimepicker" required />
+                                    <label for="email">Email</label>
+                                    <span asp-validation-for="Email " class=" test-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-floating" id="phone num" data-target-input="nearest">
+                                    <input type="tel" class="form-control datetimepicker-input" id="Phone Number" placeholder="phone num" asp-for="@Model.PhoneNumber" data-target="#date3" data-toggle="datetimepicker" /> @*pattern="[0-9]{11}" title="Please enter exactly 11 digits" required/>*@
+                                    <label for="phone num">Phone Number</label>
+                                    <span asp-validation-for="PhoneNumber " class=" test-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-floating" id="national id" data-target-input="nearest">
+                                    <input type="text" class="form-control datetimepicker-input" id="National ID" placeholder="national id" asp-for="@Model.ID" data-target="#date3" data-toggle="datetimepicker" required /> @*inputmode="numeric" pattern="[0-9]{14}" autocomplete="cc-number" maxlength="14" title="Please enter exactly 14 digits"/>*@
+                                    <label for="national id">National ID</label>
+                                    <span asp-validation-for="ID " class=" test-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="form-floating" id="user name" data-target-input="nearest">
+                                    <input type="text" class="form-control datetimepicker-input" id="user name" placeholder="user name" asp-for="@Model.Username" data-target="#date3" data-toggle="datetimepicker" required />
+                                    <label for="user name">User Name</label>
+                                    <span asp-validation-for="Username" class=" test-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="form-floating">
+                                    <input type="password" class="form-control" id="password" placeholder="Password" asp-for="@Model.Password">
+                                    <label for="password">Password</label>
+                                    <span asp-validation-for="Password " class=" test-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="form-floating">
+                                    <select class="form-control" asp-for="@Model.Type">
+                                        <option value="Admin Type">Admin Type</option>
+                                        <option value="Manager">Manager</option>
+                                        <option value="Receptionist">Receptionist</option>
+                                    </select>
+                                </div>
+                            </div>
+                            @* <div class="col-md-6">
+                                <div class="form-floating">
+                                    <input class="form-control" type="file" id="imageInput" accept="image/*" onchange="readURL(this)" asp-for="@Model.Image">
+                                    <label for="imageInput">Image</label>
+                                </div>
+                            </div> *@
+                            <input class="btn btn-primary py-3 px-5 mt-2" type="submit" value="Add Admin" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Booking End -->
